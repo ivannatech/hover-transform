@@ -5,7 +5,7 @@ Este projeto demonstra a utilização de transformações CSS com `:hover` para 
 ## 📸 Captura de Tela
 
 <p align="center">
-  <img src="./preview.png" alt="Preview da aplicação" width="100" />
+  <img src="./preview.png" alt="Preview da aplicação" width="400" />
 </p>
 
 Visualize a página:  
