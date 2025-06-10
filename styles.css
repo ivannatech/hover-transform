@@ -1,0 +1,62 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Inter;
+}
+
+.titulo {
+  font-size: large;
+  margin: 5%;
+  text-align: center;
+}
+
+.container {
+  width: 200px;
+  margin: auto;
+  border: solid 2px black;
+  border-radius: 10px;
+
+  align-items: center;
+  justify-items: center;
+}
+
+.card {
+  width: 100px;
+  height: 100px;
+  margin: 20px;
+  border-radius: 10px;
+
+  background-color: #474747;
+  color: white;
+  text-align: center;
+  align-content: center;
+}
+
+.card-1:hover {
+  transform: translateX(100px);
+  transition: 2.5s;
+}
+.card-2:hover {
+  transform: rotate(360deg);
+  transition: 2.5s;
+}
+.card-3:hover {
+  transform: rotateX(360deg);
+  transition: 2.5s;
+}
+.card-4:hover {
+  transform: rotateY(360deg);
+  transition: 2.5s;
+}
+.card-5:hover {
+  transform: scaleX(1.5);
+  transition: 2.5s;
+}
+.card-6:hover {
+  transform: scale(1.3);
+  transition: 2.5s;
+}
